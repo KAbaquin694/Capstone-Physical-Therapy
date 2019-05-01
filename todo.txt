@@ -1,0 +1,11 @@
+'NWC' jpg should show up behind the 'northwest'png
+
+add a registration form (probably a login as well)
+
+add an instagram link (@westmecphysicaltherapy), probably in the footer of all the pages
+
+add link for tax credit donations
+
+Add a calendar somewhere?
+
+Properly center links in nav bar

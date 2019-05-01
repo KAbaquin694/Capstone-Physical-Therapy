@@ -1,1 +1,20 @@
 @charset "utf-8";
+
+h2 {
+    font-size: 2em;
+    text-align: center;
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+div.answers {
+    width: 75%;
+    margin: auto;
+}
+
+p {
+    font-size: 1.3em;
+    text-indent: 50px;
+}
