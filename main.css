@@ -36,6 +36,13 @@ header {
     /* background-image: url("NWC.jpg"); */
 }
 
+/* Style the footer */
+
+footer {
+    background-color: #f1f1f1;
+    padding: 10px;
+}
+
 /* Style the top navigation bar */
 
 .topnav {
@@ -43,6 +50,8 @@ header {
     background-color: #333;
     height: 60px;
     border-top: 1px solid black;
+    background-image: radial-gradient(rgb(48, 48, 48), black);
+    /* linear or radial gradience? */
 }
 
 /* Style the topnav links */
@@ -55,6 +64,7 @@ header {
     padding: 21px 50px;
     text-decoration: none;
     width: 273.6px;
+    /* transition: .3s ease-in, color .8s; */
 }
 
 /* Change color on hover */
@@ -62,4 +72,6 @@ header {
 .topnav a:hover {
     background-color: #ddd;
     color: black;
+    transition: .5s ease-in, color .10s;
+    /* box-shadow: inset 0 0px 10px black; */
 }
